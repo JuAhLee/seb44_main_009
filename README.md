@@ -13,9 +13,8 @@
 - **프로젝트 명 :** ColorPick (컬러픽)
 - **프로젝트 기간 :** 2023.06.29 - 2023.07.24 ( Day : 26 )
 - **한줄 소개 :** 자신의 퍼스널 컬러에 맞는 색상의 의류를 추천해주는 의류 쇼핑몰.
-- **팀원 :**   **( FE ):** 박주현, 이현지, 이주아  **( BE ):** 이진우, 전혜빈, 정소영
-- **발표 문서 :** 
-- **배포 링크 :**
+- **팀원 :**   **( FE ):** 박주현, 이현지, 이주아  **( BE ):** 이진우, 전혜빈, 정소영 
+- **배포 링크 :**  http://color.pick.s3-website.ap-northeast-2.amazonaws.com/
 
 
 <br >
@@ -148,7 +147,7 @@ https://docs.google.com/presentation/d/1_1ce6GYg-et1UGh_m13-9fUgL02MbOFE/edit?us
 <br /> 
 
 
-### 노션 페이지 
+### 노션 페이지 ( 만료 )
 https://www.notion.so/codestates/bb5aea5c8b984c21a69a6f6676a84d94
 
 
