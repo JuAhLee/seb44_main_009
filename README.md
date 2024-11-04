@@ -131,6 +131,11 @@ https://docs.google.com/spreadsheets/d/18NeDV1LywX1KK4K9oDR_7MGHQieBv9uPuFw1w9ua
 
 ### Figma
 https://www.figma.com/file/07uIEAYfKSwEI2B9D4Bgop/Untitled?type=design&node-id=1-15&mode=design&t=Tvh0xcdPARBOLY0k-0
+<br/>
+
+<img width="100%" src="./figma.png"/>
+
+<br/>
 
 <br/>
 
