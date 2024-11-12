@@ -15,6 +15,7 @@
 - **한줄 소개 :** 자신의 퍼스널 컬러에 맞는 색상의 의류를 추천해주는 의류 쇼핑몰.
 - **팀원 :**   **( FE ):** 박주현, 이현지, 이주아  **( BE ):** 이진우, 전혜빈, 정소영 
 - **배포 링크 :**  http://color.pick.s3-website.ap-northeast-2.amazonaws.com/
+- (현재 api가 만료되어 배포 링크에 데이터가 없습니다. 아래 캡쳐본으로 참조 부탁드립니다.)
 - **fork 원본 링크 :** https://github.com/codestates-seb/seb44_main_009/tree/devFe
 
 
